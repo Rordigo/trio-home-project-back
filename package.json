@@ -1,0 +1,25 @@
+{
+  "name": "trio-home-project-back",
+  "version": "1.0.0",
+  "description": "Backend project for Trio hiring proccess",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rordigo/trio-home-project-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rordigo/trio-home-project-back/issues"
+  },
+  "homepage": "https://github.com/Rordigo/trio-home-project-back#readme",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.58",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
